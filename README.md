@@ -4,7 +4,7 @@ I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Chamalka Marasinghe]](http://www.linkedin.com/in/chamalka-marasinghe-69b797215/)
+[Linkedin: Chamalka Marasinghe](http://www.linkedin.com/in/chamalka-marasinghe-69b797215/)
 
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
