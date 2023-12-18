@@ -4,7 +4,7 @@ I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-[![Linkedin: Vidusha Jayaweera](https://img.shields.io/badge/-Vidusha_Jayaweera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidusha-t-jayaweera/)](https://www.linkedin.com/in/vidusha-t-jayaweera/)
+[![Linkedin: Chamalka Marasinghe]](www.linkedin.com/in/chamalka-marasinghe-69b797215)
 
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
@@ -13,12 +13,10 @@ I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 🔴 <strong>Frameworks</strong>
 
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -27,7 +25,6 @@ I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at 
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 🔴 <strong>Databases</strong>
 
@@ -39,7 +36,6 @@ I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at 
 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)
 
 🔴 <strong>IDEs/Editors</strong>
