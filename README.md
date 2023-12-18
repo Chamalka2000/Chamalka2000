@@ -1,7 +1,7 @@
 ## Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 I'm <strong>Chamalka Marasinghe</strong>, Software Engineering Undergraduate at Sri Lanka Institute of Information Technology.
 
-<img align='right' src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47dzxp5itegfxrgu3s3b9nayakgt14gcx2t4k6n5j2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
 
 
 [Linkedin: Chamalka Marasinghe](http://www.linkedin.com/in/chamalka-marasinghe-69b797215/)
